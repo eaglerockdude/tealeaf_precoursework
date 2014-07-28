@@ -6,6 +6,8 @@ puts "what is your name?"
 username = gets.chomp
 puts "You have typed in the name : " + username
 
+put "test"
+
 # output from IRB
 # kmac:variables kenmcfadden$ ruby name.rb
 # what is your name?
